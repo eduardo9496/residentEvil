@@ -281,7 +281,7 @@ footer{
 
 iframe{
   position: absolute;
-  right: -190px; 
+  right: -160px; 
   height: 480px; 
   scale: 65%; 
   transform: rotate(90deg);
